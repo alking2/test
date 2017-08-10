@@ -23,5 +23,6 @@ result = sess.run([a, b])
 print("result")
 print(result)
 
+print("XD")
 
 
